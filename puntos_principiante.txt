@@ -1,0 +1,2 @@
+ID        Nombre    Apellido  Juego     Puntaje   Tipo           
+1         lin       tempura   fifa      200       principiante   
